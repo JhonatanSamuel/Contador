@@ -14,8 +14,12 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <br>
 <br>
-<p> Imagem do projeto </p>
+
+<p> Imagens do projeto </p>
 <img src="https://github.com/JhonatanSamuel/Contador/blob/master/assets/count%201.jpg?raw=true" />
 <br>
 <br> 
 <img src="https://github.com/JhonatanSamuel/Contador/blob/master/assets/count%202.jpg?raw=true" />
+<br>
+<br>
+<img src="https://github.com/JhonatanSamuel/Contador/blob/master/assets/count%203.jpg?raw=true" />
