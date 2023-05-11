@@ -16,3 +16,6 @@
 <br>
 <p> Imagem do projeto </p>
 <img src="https://github.com/JhonatanSamuel/Contador/blob/master/assets/count%201.jpg?raw=true" />
+<br>
+<br> 
+<img src"https://github.com/JhonatanSamuel/Contador/blob/master/assets/count%202.jpg?raw=true" />
