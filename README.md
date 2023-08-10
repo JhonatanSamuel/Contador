@@ -1,5 +1,7 @@
 <h2>Contador, a cada clique no botão os números vão aumentar, diminuir ou resetar. </h2>
 <br>
+
+<a href="https://countnumberss.netlify.app/">Acessar a página</a>
 <br>
 <h1>Contador</h1>
 <br>
